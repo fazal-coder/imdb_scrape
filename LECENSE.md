@@ -1,2 +1,0 @@
-
-In this README, I've provided an explanation of the script, dependencies, installation instructions, usage guidelines, and an example usage command. Feel free to customize it according to your specific needs.
